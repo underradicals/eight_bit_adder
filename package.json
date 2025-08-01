@@ -1,0 +1,18 @@
+{
+  "name": "eightbitadder",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.8",
+    "autoprefixer": "10.4.21",
+    "sass-embedded": "1.89.2",
+    "typescript": "~5.8.3",
+    "vite": "^7.0.0"
+  }
+}
